@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "MY PERSONAL BLOG",
+  "main": "index.js",
+  "repository": "https://github.com/klarkxy/blog.git",
+  "author": "klarkxy <278370456@qq.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.27"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-theme-ting": "^2.0.2"
+  }
+}
