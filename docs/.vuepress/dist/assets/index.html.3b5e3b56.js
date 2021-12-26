@@ -1,1 +1,0 @@
-import{o as a,c as t,F as o,a as e}from"./app.e44dbf50.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c=e("p",null,"hahahahaha",-1),r=e("p",null,"lakakaka",-1),_=e("p",null,"test action",-1);function l(p,d){return a(),t(o,null,[c,r,_],64)}var u=n(s,[["render",l]]);export{u as default};
