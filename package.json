@@ -10,8 +10,16 @@
   "author": "klarkxy",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
+    "@vssue/api-github-v3": "^1.4.7",
+    "@vssue/vuepress-plugin-vssue": "^1.4.8",
     "@vue/component-compiler-utils": "^3.3.0",
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.32",
+    "@vuepress/plugin-external-link-icon": "^2.0.0-beta.32",
+    "@vuepress/plugin-medium-zoom": "^2.0.0-beta.32",
+    "@vuepress/plugin-nprogress": "^1.9.5",
+    "@vuepress/plugin-register-components": "^1.9.5",
     "@vuepress/plugin-search": "^1.9.5",
+    "@vuepress/plugin-shiki": "^2.0.0-beta.32",
     "@vuepress/shared-utils": "^1.9.5",
     "vuepress-plugin-live2d-plus": "^0.1.0"
   },
